@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBurger.Android", "TemplateBurger\TemplateBurger.Android\TemplateBurger.Android.csproj", "{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateBurger", "TemplateBurger\TemplateBurger\TemplateBurger.csproj", "{600A09A4-A14D-409C-90DD-74E81339F068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600A09A4-A14D-409C-90DD-74E81339F068}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109F169E-437A-4030-8B14-4DDD2E3ED095}
+	EndGlobalSection
+EndGlobal
